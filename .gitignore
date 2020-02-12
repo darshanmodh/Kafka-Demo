@@ -1,0 +1,5 @@
+
+.DS_Store
+.idea/*
+target/*
+kafka-twitter-producer/target/classes/config.properties
